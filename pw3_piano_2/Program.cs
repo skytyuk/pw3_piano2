@@ -26,57 +26,57 @@
                 }
                 else if (key.Key == ConsoleKey.W)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[1], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.S)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[2], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.E)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[3], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.D)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[4], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.F)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[5], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.T)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[6], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.G)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[7], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.Y)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[8], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.H)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[9], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.U)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[10], 222);
                     Console.Clear();
                 }
                 else if (key.Key == ConsoleKey.J)
                 {
-                    Console.Beep(Note[0], 222);
+                    Console.Beep(Note[11], 222);
                     Console.Clear();
                 }
                 else
